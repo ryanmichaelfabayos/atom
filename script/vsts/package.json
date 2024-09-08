@@ -3,8 +3,8 @@
   "description": "Atom release scripts",
   "dependencies": {
     "download": "^7.1.0",
-    "request": "^2.87.0",
-    "request-promise-native": "^1.0.5",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
     "yargs": "4.8.1"
   }
 }
